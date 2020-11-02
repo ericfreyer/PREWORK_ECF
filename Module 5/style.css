@@ -1,0 +1,61 @@
+<head>>
+    <style>
+
+    h1 {
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .Blue {
+        color: blue
+    }
+
+        .Green {
+            color: green;
+        }
+
+        .Red  {
+            color: red;
+        }
+
+        .Big {
+            font-size: 30px;
+        }
+
+        .Tiny {
+            font-size: 7px;
+        }
+
+        .Centered {
+            text-align: center;
+        }
+
+        .Bold {
+            font-weight: bold;
+        }
+
+        .Font {
+            font-style: italic;
+        }
+
+        .Multiple {
+            font-size: 30px;
+            color: orange;
+            font-weight: bold;
+        }
+
+        .styledFont {
+            color: rgb(30, 131, 189);
+            font-weight: bold;
+        }
+
+        img {
+            border: 8px solid rgb(167, 40, 40);
+            border-style: groove;
+            border-width: 1cm;
+        }
+    </style>
+</head>
